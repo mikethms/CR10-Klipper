@@ -1,8 +1,3 @@
-[include ercf_hardware.cfg]
-[include ercf_parameters.cfg]
-[include ercf_software.cfg]
-[include client_macros.cfg]
-[include ercf_menu.cfg]
 [include hardware/btt_octopus_pin_aliases.cfg]
 [include hardware/xyz_steppers.cfg]
 [include hardware/probe.cfg]
